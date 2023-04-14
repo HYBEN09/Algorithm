@@ -65,7 +65,7 @@
 ## 📌 로그가 무엇인가?
 
 <div>
-<img src="./assets/what's a log again?.png" width="200" height="200"/>
+<img src="./assets/what's a log again.png" width="200" height="200"/>
 <img src="./assets/Logarithm Examples.png" width="200" height="200"/>
 <img src="./assets/Logarithm Complexity.png" width="200" height="200"/>
 </div>

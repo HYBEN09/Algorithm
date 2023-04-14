@@ -64,11 +64,18 @@
 
 ## 📌 로그가 무엇인가?
 
+로그는 어떤 수를 다른 수의 지수로 나타낼 때 사용하는 수학적 개념입니다. 예를 들어, 2^3은 2를 3의 지수로 나타낸 것이고, 이때 2를 밑(base)이라고 하고, 3을 지수(exponent)라고 합니다. 로그는 이 지수를 찾는 연산을 의미합니다.
+
+일반적으로 로그는 밑이 어떤 값인지에 따라 다른 값을 가집니다. 자주 사용되는 로그는 자연 로그(natural logarithm)와 밑이 10인 로그(common logarithm)입니다. 자연 로그는 e(자연 상수)를 밑으로 하는 로그를 의미하며, 보통 ln으로 표기합니다. 예를 들어, ln(2)는 e를 밑으로 하는 2의 로그를 의미합니다. 밑이 10인 로그는 보통 log로 표기하며, 예를 들어 log(100)은 10을 밑으로 하는 100의 로그를 의미합니다.
+
+로그는 주로 지수적으로 증가하는 값에 대해 연산을 수행할 때 유용합니다. 예를 들어, 컴퓨터 알고리즘에서 입력 데이터의 크기가 지수적으로 증가할 때, 알고리즘의 실행 시간이 얼마나 증가하는지를 계산하는 데에 로그가 사용됩니다. 또한, 로그는 확률론과 통계학, 정보 이론 등 다양한 분야에서 활용됩니다.
+
 <div>
-<img src="./assets/what's a log again.png" width="200" height="200"/>
-<img src="./assets/Logarithm Examples.png" width="200" height="200"/>
-<img src="./assets/Logarithm Complexity.png" width="200" height="200"/>
+<img src="./assets/what's a log again.png" width="400" height="400"/>
+<img src="./assets/Logarithm Examples.png" width="400" height="400"/>
+<img src="./assets/Logarithm Complexity.png" width="400" height="400"/>
 </div>
+
 ### 참고:
 
 https://rithmschool.github.io/function-timer-demo/

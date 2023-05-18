@@ -4,3 +4,10 @@ function solution(my_string, letter) {
     const result = my_string.replace(regex, '');
     return result
 }
+
+
+//다른 풀이
+function solution(my_string, letter) {
+  const result = my_string.split(letter).join('');
+  return result;
+}

@@ -5,3 +5,9 @@ function solution(my_string) {
     
     return joinString
 }
+
+// 다른 풀이
+function solution(my_string) {
+    var answer = [...my_string].reverse().join("");
+    return answer;
+}

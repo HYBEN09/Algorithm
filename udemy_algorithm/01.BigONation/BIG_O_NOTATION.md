@@ -273,7 +273,8 @@ O(n) + O(n) = O(2n) 우리는 전체적인 상황에만 관심이 있기 때문�
 
 <img src="../images/bigonation-2.png" />
 <br/>
-```javascript
+
+```
 // will print all the pairs from 0 to n
 // 0 1, ... 1,0 ... n,n
 function printAllPairs(n) {
@@ -289,7 +290,7 @@ function printAllPairs(n) {
 ```
 
 <img src="../images/bigonation-4.png" />
-ㅊ
+
 O(n) 연산 내에 있는 O(n) 연산입니다. 중첩 루프라고 합니다. 루프가 중첩되어 있기 때문에 n이 증가하면 n 내부의 n 수도 증가합니다. 그래서 이것은 지수적으로 증가합니다. 실행 시간은 f(n^2)입니다.
 
 ## 빅 오 표현식 단순화
@@ -385,7 +386,6 @@ function onlyElementsAtEvenIndex(array) {
     }
     return newArray;
 }
-
 ```
 
 - 배열을 생성하는데 걸리는 시간은 상수입니다. O(1)

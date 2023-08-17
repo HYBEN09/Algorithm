@@ -6,7 +6,7 @@ Notes from:
 
 # Table of Contents
 
-1. [Big O Notation]
+1. [Big O Notation](https://github.com/HYBEN09/Algorithm/blob/main/udemy_algorithm/01.BigONation/BIG_O_NOTATION.md)
 2. Problem Solving Approach
 3. Problem Solving Patterns
 4. Recursion
